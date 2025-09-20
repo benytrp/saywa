@@ -1,0 +1,5 @@
+{
+  "name": "File Classifier & Organizer",
+  "description": "An intelligent file classification and organization tool that uses a multi-signal pipeline to categorize files. It features a sophisticated UI for managing classification jobs, setting confidence thresholds, and visualizing the entire workflow.",
+  "requestFramePermissions": []
+}
